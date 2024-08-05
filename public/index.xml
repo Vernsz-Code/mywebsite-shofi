@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>My Site</title>
+    <link>http://localhost:1313/</link>
+    <description>My Site</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 22:35:52 &#43;0700</lastBuildDate>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>HI</title>
+  <link>http://localhost:1313/posts/8e4c6d5/</link>
+  <pubDate>Sun, 04 Aug 2024 22:18:21 &#43;0700</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/8e4c6d5/</guid>
+  <description><![CDATA[<p>HELLOOOO CAN SOMEONE SEE ME</p>]]></description>
+</item>
+<item>
+  <title>Introduce</title>
+  <link>http://localhost:1313/posts/66fbaa3/</link>
+  <pubDate>Thu, 01 Aug 2024 14:28:01 &#43;0700</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/66fbaa3/</guid>
+  <description><![CDATA[<p>Hello! My name is Shofiyyah Azzahro. This is my first website using hugo.</p>]]></description>
+</item>
+</channel>
+</rss>
